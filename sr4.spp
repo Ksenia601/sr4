@@ -1,7 +1,7 @@
 #include <iostream>
 #include <math.h>
 using namespace std;
-int main()
+int mainnvjkrui()
 {
 	setlocale(0, ".1251");
 	double y, x;
